@@ -1,0 +1,7 @@
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\obj\Debug\Simplex1.0.csproj.AssemblyReference.cache
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\obj\Debug\Simplex1.0.csproj.CoreCompileInputs.cache
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\SynologyDrive\作业与资料\程序设计及应用\ConsoleApps\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
